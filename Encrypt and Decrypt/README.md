@@ -6,3 +6,12 @@ If the user chooses to encrypt the message, the user’s message will be transfo
 The first two letters are swaped with the next two and so on. The code converts encrypted text to decrypted text by reversing the letters according to user input.
 
 Here, the dialogue box is used to get user input and the info box to show the encrypted and decrypted message to the user.
+
+<img width="161" alt="image" src="https://user-images.githubusercontent.com/109129025/233799513-5c5edb3a-1ced-4094-acc5-190979641fc7.png">
+
+
+<img width="136" alt="image" src="https://user-images.githubusercontent.com/109129025/233799546-e195b709-b8bb-4454-879d-6ea6028c8442.png">
+
+
+<img width="177" alt="image" src="https://user-images.githubusercontent.com/109129025/233799563-aee5cacf-8399-40a1-97e5-4e2f266fec26.png">
+
